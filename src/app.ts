@@ -5,6 +5,7 @@ import { urlencoded, json } from "body-parser";
 import cors from 'cors';
 import dotenv from 'dotenv';
 import pacienteRoutes from './routes/pacientes.routes'
+import doctorRoutes from './routes/doctores.routes'
 
 dotenv.config();
 const app = express();
@@ -13,6 +14,7 @@ app.use( json() );
 app.use( cors() );
 app.use(urlencoded({ extended: true }));
 app.use('/api/pacientes', pacienteRoutes)
+app.use('/api/doctores', doctorRoutes)
 app.use(
     (
       err: Error,

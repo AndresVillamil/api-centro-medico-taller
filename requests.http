@@ -31,3 +31,39 @@ Content-Type: application/json
 
 ###
 DELETE http://localhost:8000/api/pacientes/79978654 HTTP/1.1
+
+
+###
+GET http://localhost:8000/api/doctores HTTP/1.1
+
+###
+POST http://localhost:8000/api/doctores HTTP/1.1
+Content-Type: application/json
+
+{   
+  "id_profesional": "71978654",
+  "nombre": "Pepe",
+  "apellido": "Perez",
+  "correo":"pepe@mail.com",
+  "telefono":"2234567",
+  "especialidad": "medicina_interna"
+}
+
+###
+GET http://localhost:8000/api/doctores/71978654 HTTP/1.1
+
+###
+PUT http://localhost:8000/api/doctores/71978654 HTTP/1.1
+Content-Type: application/json
+
+{
+    "id_profesional": 71978654,
+    "nombre": "Pepito",
+    "apellido": "Perez",
+    "correo": "pepe@mail.com",
+    "telefono": "2234567",
+    "especialidad": "medicina_interna"
+  }
+
+###
+DELETE http://localhost:8000/api/doctores/71978654 HTTP/1.1
