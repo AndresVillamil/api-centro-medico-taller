@@ -8,6 +8,7 @@ import pacienteRoutes from './routes/pacientes.routes'
 import doctorRoutes from './routes/doctores.routes'
 import citasRoutes from './routes/citas.routes'
 
+
 dotenv.config();
 const app = express();
 
