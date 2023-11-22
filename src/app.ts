@@ -6,6 +6,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import pacienteRoutes from './routes/pacientes.routes'
 import doctorRoutes from './routes/doctores.routes'
+import citasRoutes from './routes/citas.routes'
 
 dotenv.config();
 const app = express();
@@ -15,6 +16,7 @@ app.use( cors() );
 app.use(urlencoded({ extended: true }));
 app.use('/api/pacientes', pacienteRoutes)
 app.use('/api/doctores', doctorRoutes)
+app.use('/api/citas', citasRoutes)
 app.use(
     (
       err: Error,
