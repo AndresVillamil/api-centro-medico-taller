@@ -1,29 +1,29 @@
 ### Nombre del Proyecto
-<em> ## API - Centro Médico </em>
+##  API - Centro Médico 
 
-## Table of Contents
+# Table of Contents
 1. [General Info](#general-info)
 2. [Autores](#autores)
 3. [Funcionalidades API](#funcionalidades)
 4. [M.E.R Centro Médico](#MER)
 
 
-## General Info(#general-info)
+# General Info
 ***
-Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Sequelize. 
+Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Sequelize, para realizar prubas de end-points, se puede utilizar el archivo request.http instalando REST Client. 
 
-## Autores:
+# Autores:
 ***
-# Edwin Andrés Villamail Laverde. 
-# Programa - DESARROLLO WEB BACK END – INTERMEDIO GRUPO 01
-# Universidad Distrital Francisco José de Caldas
+## Edwin Andrés Villamail Laverde. 
+## Programa - DESARROLLO WEB BACK END – INTERMEDIO GRUPO 01
+## Universidad Distrital Francisco José de Caldas
 
-## :hammer:Funcionalidades del proyecto(#funcionalidades)
+# :hammer:Funcionalidades del proyecto
 ***
-- `Gestión de Pacientes`: descripción de la funcionalidad 1
-- `Gestión de Doctores`: descripción de la funcionalidad 2
-- `Gestión de Citas`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
-- `Funcionalidad`: descripción de la funcionalidad 3
+- `Gestión de Pacientes`: Permite la creación, busqueda, modificación y eliminación de pacientes.
+- `Gestión de Doctores`: Permite la creación, busqueda, modificación y eliminación de doctores.
+- `Gestión de Citas`: Permite la creación, busqueda, modificación y eliminación de citas.
+
 
 ### Imagen de Modelo Entidad Relación - Centro Médico
 ***
