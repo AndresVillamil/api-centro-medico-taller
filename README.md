@@ -10,11 +10,11 @@
 
 # General Info
 ***
-Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Sequelize, para realizar prubas de end-points, se puede utilizar el archivo request.http instalando REST Client. 
+Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Sequelize, para realizar pruebas de end-points, se puede utilizar el archivo request.http instalando REST Client. 
 
 # Autores:
 ***
-## Edwin Andrés Villamail Laverde. 
+## Edwin Andrés Villamil Laverde. 
 ## Programa - DESARROLLO WEB BACK END – INTERMEDIO GRUPO 01
 ## Universidad Distrital Francisco José de Caldas
 
