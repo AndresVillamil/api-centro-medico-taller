@@ -20,9 +20,9 @@ Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Seque
 
 # :hammer:Funcionalidades del proyecto
 ***
-- `Gestión de Pacientes`: Permite la creación, busqueda, modificación y eliminación de pacientes.
-- `Gestión de Doctores`: Permite la creación, busqueda, modificación y eliminación de doctores.
-- `Gestión de Citas`: Permite la creación, busqueda, modificación y eliminación de citas.
+- `Gestión de Pacientes`: Permite la creación, búsqueda, modificación y eliminación de pacientes.
+- `Gestión de Doctores`: Permite la creación, búsqueda, modificación y eliminación de doctores.
+- `Gestión de Citas`: Permite la creación, búsqueda, modificación y eliminación de citas.
 
 
 ### Imagen de Modelo Entidad Relación - Centro Médico
