@@ -35,7 +35,7 @@ app.use(
 
 // Ruta base
 app.get("/", (req: express.Request, res: express.Response) => {
-  res.send("Bienvenido a mi API");
+  res.send("Bienvenido API - Centro Médico" );
 })
 
 
