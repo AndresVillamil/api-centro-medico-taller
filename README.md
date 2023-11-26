@@ -53,10 +53,11 @@ Adicionalmente este proyecto utiliza:
 ***
 - `Gestión de Pacientes`: Permite la creación, búsqueda, modificación y eliminación de pacientes.
 ***
-![CrearPacientes](/Pruebas API/Pacientes/CrearPacientes(POST).png)
-![Obtener Pacientes](/ModeloEntidadRelacion-Proyecto.png)
-![Modificar Paciente](/ModeloEntidadRelacion-Proyecto.png)
-![Eliminar Paciente](/ModeloEntidadRelacion-Proyecto.png)
+![CrearPacientes](./Pruebas%20API/Pacientes/CrearPacientes(POST).png)
+![Obtener Pacientes](./Pruebas%20API/Pacientes/ObtenerPacientes(GET).png)
+![Modificar Paciente](./Pruebas%20API/Pacientes/Modificar%20y%20Consultar%20un%20paciente%20por%20ID.png)
+![Eliminar Paciente](./Pruebas%20API/Pacientes/Eliminar%20un%20Paciente.png)
+
 - `Gestión de Doctores`: Permite la creación, búsqueda, modificación y eliminación de doctores.
 - `Gestión de Citas`: Permite la creación, búsqueda, modificación y eliminación de citas.
 
