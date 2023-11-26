@@ -42,7 +42,8 @@ Adicionalmente este proyecto utiliza:
 - [Nodemon](https://nodemon.io)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
-- 
+
+
 # Autore(s):
 ***
 ## Edwin Andrés Villamil Laverde. 
