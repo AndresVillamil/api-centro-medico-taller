@@ -52,7 +52,8 @@ Adicionalmente este proyecto utiliza:
 # :hammer:Funcionalidades del proyecto
 ***
 - `Gestión de Pacientes`: Permite la creación, búsqueda, modificación y eliminación de pacientes.
-![Crear Paciente](/Pruebas API/Pacientes/CrearPacientes(POST).png)
+![CrearPacientes](/Pruebas API/Pacientes/CrearPacientes(POST).png)
+(/Pruebas API/Pacientes/CrearPacientes(POST).png)
 ![Obtener Pacientes](/ModeloEntidadRelacion-Proyecto.png)
 ![Modificar Paciente](/ModeloEntidadRelacion-Proyecto.png)
 ![Eliminar Paciente](/ModeloEntidadRelacion-Proyecto.png)
