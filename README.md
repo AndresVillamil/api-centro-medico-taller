@@ -35,7 +35,7 @@ Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Seque
 
 **4.** **🎉 Abrir postman and probar el API en esta url `https://127.0.0.1:8000`**
 
-REcuerde que el archivo `.env` debe ser creado para que el API trabaje.
+Recuerde que el archivo `.env` debe ser creado para que el API trabaje.
 
 Adicionalmente este proyecto utiliza:
 
