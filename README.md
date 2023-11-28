@@ -2,7 +2,7 @@
 ##  API - Centro Médico 
 
 # Tabla de Contenido
-1. [General Info](#general-info)
+1. [Información General](#general-info)
 2. [Autores](#autores)
 3. [Funcionalidades API](#funcionalidades)
 4. [M.E.R Centro Médico](#MER)
@@ -14,7 +14,7 @@ Ejercicio para aprendizaje creación API REST con NodeJS, Express, MySql y Seque
 
 # Instalación y ejecución APP:
 
-**1. Clone este repositorio ejecutnado el siguiente comando: -**
+**1. Clone este repositorio ejecutando el siguiente comando: -**
 
 ```bash
  git clone "git+https://github.com/AndresVillamil/api-centro-medico-taller.git"
@@ -100,3 +100,21 @@ Adicionalmente este proyecto utiliza:
 ### Imagen de Modelo Entidad Relación - Centro Médico
 ***
 ![M.E.R Centro Médico](/ModeloEntidadRelacion-Proyecto.png)
+
+### Documentacion Swagger
+***
+Documentación end-points swagger
+![rutas-api](./Pruebas%20API/DocumentacionAPI/RutasAPI_1.png)
+
+Schemas swagger
+![schemas-api](./Pruebas%20API/DocumentacionAPI/Schemas.png)
+
+Funcionamiento Rutas Get
+- Pacientes
+![getPacientes-api](./Pruebas%20API/DocumentacionAPI/GetPacientes.png)
+
+- Doctores
+![getDoctores-api](./Pruebas%20API/DocumentacionAPI/GetDoctores.png)
+
+- Citas
+![getCitas-api](./Pruebas%20API/DocumentacionAPI/GetCitas.png)
